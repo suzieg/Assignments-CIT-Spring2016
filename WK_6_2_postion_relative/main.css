@@ -1,0 +1,13 @@
+div {
+    border: 5px solid black;
+    width: 1080px;
+    height: 2100px;
+    border-radius: 10px;
+}
+#relative{
+    position: relative;
+    border: 2px solid red;
+    width: 100px;
+    height: 100px;
+    left: 10%;
+}

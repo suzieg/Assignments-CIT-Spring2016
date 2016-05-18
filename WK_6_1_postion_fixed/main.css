@@ -1,0 +1,14 @@
+div {
+    border: 5px solid black;
+    width: 1080px;
+    height: 2100px;
+    border-radius: 10px;
+}
+#fixed{
+    position: fixed;
+    border: 2px solid red;
+    width: 100px;
+    height: 100px;
+    top: 40px;
+    left: 40px;
+}

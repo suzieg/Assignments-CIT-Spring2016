@@ -1,0 +1,43 @@
+html {
+    background-color: dodgerblue ;
+    font-family: Margarine; sans-serif;
+    margin: 50px;
+    margin-color: black;
+
+}
+body{
+    background-color: burlywood;
+    width:65%;
+    margin: auto;
+    padding: 20px;
+    font-size:20px;
+    text-align: left;
+    border: 5px solid rgb(43, 62,162);
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 50%;
+    border: 5px solid #fff;
+    box-shadow: 10px 10px 50px #fff;
+}
+p {
+    font-size: 20px;
+}
+    #element1 {
+        color:red;
+        font-size: 30px;
+    }
+    #element2 {
+        color: #0040D0;
+        font-size: 30px;
+    }
+    #element3 {
+        color: orangered;
+        font-size: 30px;
+    }
+    #element4 {
+        color: red;
+        font-size: 30px;
+}

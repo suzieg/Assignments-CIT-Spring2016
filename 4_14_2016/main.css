@@ -1,0 +1,14 @@
+html, body, header {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    height: 100%;
+    box-sizing: border-box;
+}
+
+header {
+    background-color: white;
+    background-image: url(chocolate-lab.jpg);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}

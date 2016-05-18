@@ -1,0 +1,22 @@
+/*body {*/
+    /*border: 2px solid black;*/
+/*}*/
+
+p {
+    margin:20px;
+}
+
+.first {
+    border: 2px solid black;
+    float: right;
+}
+
+.second {
+    border: 2px solid black;
+    float: left;
+}
+
+.third {
+    border: 2px solid black;
+    clear: both;
+}

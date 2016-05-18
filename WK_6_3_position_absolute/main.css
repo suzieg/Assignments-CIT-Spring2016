@@ -1,0 +1,14 @@
+div {
+    border: 5px solid black;
+    width: 1800px;
+    height: 2100px;
+    border-radius: 10px;
+    /*position: relative;*/
+}
+#absolute {
+    position: absolute;
+    border: 2px solid red;
+    width: 100px;
+    height: 100px;
+    right: 10%;
+}

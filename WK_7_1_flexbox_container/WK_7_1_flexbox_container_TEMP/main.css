@@ -1,0 +1,10 @@
+.item {
+    height: 100px;
+    width: 100px;
+    margin: 20px;
+    background-color: deepskyblue;
+    border: 2px dashed black;
+}
+
+div {
+    float: left;

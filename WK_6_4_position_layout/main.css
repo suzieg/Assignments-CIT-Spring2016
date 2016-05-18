@@ -1,0 +1,29 @@
+body {
+    position: relative;
+}
+
+#item {
+    padding: 0;
+    width:100px;
+    height: auto;
+    list-style-type: none;
+    background-color: lightseagreen;
+    vertical-align: top;
+    position: absolute;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover{
+    background-color: #FFD700;
+}
+
+.class {
+    margin-left: 125px;
+}

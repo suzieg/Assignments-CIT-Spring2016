@@ -1,0 +1,34 @@
+#Item {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: auto;
+    list-style-type: none;
+    /*list-style-image: none;*/
+    overflow: hidden;
+    background-color: lightseagreen;
+    direction: ltr;
+    /*float: right;*/
+}
+
+dl {
+    float: right;
+}
+li {
+    float: left;
+    border: left;
+    /*direction: ltr;*/
+}
+
+li a {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    /*direction: ltr;*/
+}
+
+li a:hover{
+    background-color: #FFD700;
+}
