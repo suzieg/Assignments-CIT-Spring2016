@@ -1,0 +1,27 @@
+body {
+    font-size: 48%%;
+}
+
+.one {
+    font-size: 1em;
+}
+
+.two {
+    font-size: 1rem;
+}
+
+header {
+    font-size:2em;
+}
+
+h1 {
+    font-size: 1em;
+}
+
+section {
+    font-size: 2rem;
+}
+
+h2{
+    font-size: 1rem;
+}
