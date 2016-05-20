@@ -1,10 +1,17 @@
-.item {
-    height: 100px;
-    width: 100px;
-    margin: 20px;
-    background-color: deepskyblue;
-    border: 2px dashed black;
+.align_items_flex_end {
+    height: 1000px;
+    border: 10px dashed black;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: flex-end;
 }
 
-div {
-    float: left;
+.item {
+    width: 500px;
+    height: 100px;
+    margin: 10px;
+    border: 10px dashed black;
+    background-color: deepskyblue;
+    text-align: center;
+}
