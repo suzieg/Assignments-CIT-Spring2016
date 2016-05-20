@@ -1,17 +1,46 @@
-.align_items {
+.align_items_baseline {
     height:1000px;
     border: 10px dashed black;
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
-    align-items: flex-start;
+    align-items: baseline;
 }
 
 .item {
-    width: 500px;
+    width: 100px;
     height: 100px;
     margin: 10px;
     border: 10px dashed black;
     background-color: deepskyblue;
-    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+
+#c1 {
+    align-items: flex-start;
+}
+
+#c2 {
+    align-items: center;
+}
+
+#c3 {
+    align-items: flex-end;
+}
+
+#c4 {
+    align-items: stretch;
+}
+
+#c5 {
+    justify-content: flex-start;
+}
+
+#c6 {
+    justify-content: center;
+}
+
+#c7 {
+    justify-content: flex-end;
 }
